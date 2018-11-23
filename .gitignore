@@ -1,0 +1,15 @@
+.classpath
+.project
+.settings/
+.vscode/
+target/
+test-output/
+maven-eclipse.xml
+.externalToolBuilders/
+**/*.iml
+.idea/*
+**/.idea/
+*.log
+*.exe
+.factorypath
+
